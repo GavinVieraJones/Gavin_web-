@@ -1,6 +1,0 @@
-<!doctype html>
-<html>
-<head> Web Page design, Mrs. Ashish, second block <head>
-<title> Web Portfolio of Gavin Jones <title>
-<body> <p> My experience in computers is two-fold, having taken courses in robotic coding, and through my own knowledge and expertice in my fields, which are computer construction, modding, graphical upgrading, game constructing and field testing.</p> <p> through these events, I have used these skills to design a database for other, eqaul passion- music. - Gavin Jones, creator. </p> <body>
-<body>  <body>
